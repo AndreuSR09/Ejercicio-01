@@ -9,4 +9,7 @@ Ejercicio 01
 #### Andreu
 
 
-Mañana viene un italiano a mi casa y tengo muchas ganas de que se quede y convivamos
+Mañana viene un **italiano** a mi casa y tengo muchas ganas de que se quede y convivamos
+* Pan
+* Papas
+* Agua
